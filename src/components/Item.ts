@@ -56,5 +56,4 @@ export interface IViewItemConstructor {
     this.id = item.id;
     return this.itemElement;
   }
-
  }
